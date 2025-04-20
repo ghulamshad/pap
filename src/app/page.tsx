@@ -1,103 +1,287 @@
-import Image from "next/image";
+'use client';
+
+import { Box, Container, Typography, Grid, Card, CardContent, Button,Breadcrumbs,Link as MuiLink, } from '@mui/material';
+import React, { Suspense, useMemo } from 'react';
+import { useRouter, usePathname } from 'next/navigation';
+import { useSelector } from 'react-redux';
+import { RootState } from '@/redux/store';
+import Image from 'next/image';
+import { styled } from '@mui/material/styles';
+import { ErrorBoundary } from '@/components/ErrorBoundary';
+import Header from '@/components/Header';
+import { NavigateNext as NavigateNextIcon } from '@mui/icons-material';
+import Hero from '@/components/Hero';
+import { LoadingScreen } from '@/components/LoadingScreen';
+import ParliamentaryResources from '@/components/ParliamentaryResources';
+import YoutubeFeed from '@/components/YoutubeFeed';
+import Footer from '@/components/Footer';
+import { ScrollToTop } from '@/components/ScrollToTop';
+import Link from 'next/link';
+
+
+
+const StyledBreadcrumbs = styled(Breadcrumbs)(({ theme }) => ({
+  padding: theme.spacing(2, 0),
+  backgroundColor: theme.palette.background.paper,
+  borderBottom: `1px solid ${theme.palette.divider}`,
+  boxShadow: '0 2px 4px rgba(0,0,0,0.05)',
+  '& .MuiBreadcrumbs-separator': {
+    margin: theme.spacing(0, 1),
+  },
+  '& .MuiLink-root': {
+    color: theme.palette.primary.main,
+    textDecoration: 'none',
+    '&:hover': {
+      textDecoration: 'underline',
+    },
+  },
+}));
+
+const ContentWrapper = styled(Box)(({ theme }) => ({
+  minHeight: 'calc(100vh - 64px - 64px)', // Subtract header and footer height
+  display: 'flex',
+  flexDirection: 'column',
+  backgroundColor: theme.palette.background.default,
+  position: 'relative',
+  '&::before': {
+    content: '""',
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    height: '4px',
+    background: `linear-gradient(90deg, ${theme.palette.primary.main}, ${theme.palette.secondary.main})`,
+  },
+}));
+
+const MainContent = styled(Box)(({ theme }) => ({
+  flexGrow: 1,
+  padding: theme.spacing(6, 0),
+  backgroundColor: theme.palette.background.default,
+  position: 'relative',
+  zIndex: 1,
+  [theme.breakpoints.down('sm')]: {
+    padding: theme.spacing(4, 0),
+  },
+}));
+
+const StyledContainer = styled(Container)(({ theme }) => ({
+  maxWidth: '1200px !important',
+  padding: theme.spacing(0, 3),
+  [theme.breakpoints.down('sm')]: {
+    padding: theme.spacing(0, 2),
+  },
+}));
 
 export default function Home() {
-  return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+  const router = useRouter();
+  const pathname = usePathname();
+  const { isAuthenticated, user } = useSelector((state: RootState) => state.auth);
+  const breadcrumbs = useMemo(() => {
+    const pathnames = pathname ? pathname.split('/').filter((x) => x) : [];
+    return pathnames.map((value, index) => {
+      const last = index === pathnames.length - 1;
+      const to = `/${pathnames.slice(0, index + 1).join('/')}`;
+      const label = value.charAt(0).toUpperCase() + value.slice(1).replace(/-/g, ' ');
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
+      return last ? (
+        <Typography key={to} color="text.primary">
+          {label}
+        </Typography>
+      ) : (
+        <MuiLink
+          component={Link}
+          href={to}
+          key={to}
+          color="inherit"
+          underline="hover"
         >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+          {label}
+        </MuiLink>
+      );
+    });
+  }, [pathname]);
+  const isHomePage = useMemo(() => pathname === '/', [pathname]);
+
+  return (
+    // <Box sx={{ py: 4 }}>
+    //   <Container maxWidth="lg">
+    //     <Box sx={{ textAlign: 'center', mb: 6 }}>
+    //       <Typography variant="h3" component="h1" gutterBottom sx={{ fontWeight: 'bold', color: 'primary.main' }}>
+    //         Punjab Assembly Portal
+    //       </Typography>
+    //       <Typography variant="h6" color="text.secondary" sx={{ mb: 4 }}>
+    //         Official digital platform for the Punjab Assembly
+    //       </Typography>
+          
+    //       {!isAuthenticated ? (
+    //         <Box sx={{ mt: 4 }}>
+    //           <Button 
+    //             variant="contained" 
+    //             color="primary" 
+    //             size="large" 
+    //             onClick={() => router.push('/login')}
+    //             sx={{ mr: 2 }}
+    //           >
+    //             Login
+    //           </Button>
+    //           <Button 
+    //             variant="outlined" 
+    //             color="primary" 
+    //             size="large" 
+    //             onClick={() => router.push('/register')}
+    //           >
+    //             Register
+    //           </Button>
+    //         </Box>
+    //       ) : (
+    //         <Box sx={{ mt: 4 }}>
+    //           <Typography variant="h5" gutterBottom>
+    //             Welcome, {user?.email?.split('@')[0] || 'User'}
+    //           </Typography>
+    //           <Button 
+    //             variant="contained" 
+    //             color="primary" 
+    //             size="large" 
+    //             onClick={() => router.push('/dashboard')}
+    //           >
+    //             Go to Dashboard
+    //           </Button>
+    //         </Box>
+    //       )}
+    //     </Box>
+
+    //     <Box sx={{ display: 'flex', flexDirection: { xs: 'column', md: 'row' }, gap: 4 }}>
+    //       <Box sx={{ flex: 1 }}>
+    //         <Card>
+    //           <CardContent>
+    //             <Typography variant="h5" component="div">
+    //               Assembly Information
+    //             </Typography>
+    //             <Typography variant="body2" color="text.secondary">
+    //               Access comprehensive information about the Punjab Assembly, its history, and current proceedings.
+    //             </Typography>
+    //           </CardContent>
+    //         </Card>
+    //       </Box>
+    //       <Box sx={{ flex: 1 }}>
+    //         <Card>
+    //           <CardContent>
+    //             <Typography variant="h5" component="div">
+    //               Member Directory
+    //             </Typography>
+    //             <Typography variant="body2" color="text.secondary">
+    //               Browse the directory of assembly members, their constituencies, and contact information.
+    //             </Typography>
+    //           </CardContent>
+    //         </Card>
+    //       </Box>
+    //       <Box sx={{ flex: 1 }}>
+    //         <Card>
+    //           <CardContent>
+    //             <Typography variant="h5" component="div">
+    //               Legislative Documents
+    //             </Typography>
+    //             <Typography variant="body2" color="text.secondary">
+    //               Access bills, resolutions, and other legislative documents from the Punjab Assembly.
+    //             </Typography>
+    //           </CardContent>
+    //         </Card>
+    //       </Box>
+    //     </Box>
+    //   </Container>
+    // </Box>
+    <ErrorBoundary>
+      <Box sx={{ 
+        display: 'flex', 
+        flexDirection: 'column', 
+        minHeight: '100vh',
+        width: '100%',
+        margin: 0,
+        padding: 0,
+        overflowX: 'hidden',
+        position: 'relative',
+      }}>
+        {/* Header */}
+        <Header />
+
+        {/* Main Content */}
+        <ContentWrapper>
+          {/* Pakistan Flag Background */}
+          {/* <PakistanFlag /> */}
+
+          {/* Hero Section for Home Page */}
+          {isHomePage && <Hero />}
+
+          {/* Speakers Section for Home Page */}
+          {/* {isHomePage && <SpeakersSection />} */}
+
+          {/* Breadcrumbs */}
+          {!isHomePage && (
+            <StyledBreadcrumbs
+              separator={<NavigateNextIcon fontSize="small" />}
+              aria-label="breadcrumb"
+            >
+              <MuiLink component={Link} href="/" color="inherit" underline="hover">
+                Home
+              </MuiLink>
+              {breadcrumbs}
+            </StyledBreadcrumbs>
+          )}
+
+          {/* Main Content Area */}
+          <MainContent>
+            <StyledContainer>
+              <Suspense fallback={<LoadingScreen />}>
+                {isHomePage ? (
+                  <>
+                  {/* <News /> */}
+                  <ParliamentaryResources />
+                  <YoutubeFeed/>
+                    {/* <MembersSection /> */}
+                   {/* <LatestNewsSection /> */}
+                   {/* <NewsSection /> */}
+                    {/* <PublicationsSection /> */}
+                   {/* <EventsSection /> */}
+                   {/* <AssemblyBusinessSection />  */}
+                   {/* <FAQSection /> */}
+                   {/* <LegislativeSection /> */}
+                   {/* <HighlightsSection /> */}
+                   {/* <AboutGovtSection /> */}
+                  {/* <ParliamentaryCalendarSection /> */}
+                  {/* <PressReleaseSection />  */}
+                  {/* <CommitteeSection /> */}
+                  {/* <PerformanceSection />   */}
+                  {/* <PunjabLawSection /> */}
+                  {/* <BillsSection /> */}
+                  {/* <NotificationSection /> */}
+                  {/* <TodayInAssemblySection /> */}
+                   
+
+
+                  </>
+
+                ) : (
+                  <Box>
+                    <Typography variant="h4" gutterBottom>
+                      Welcome to the Dashboard
+                    </Typography>
+                    <Typography variant="body1">
+                      Please navigate to a specific section using the sidebar.
+                    </Typography>
+                  </Box>
+                )}
+              </Suspense>
+            </StyledContainer>
+          </MainContent>
+        </ContentWrapper>
+
+        {/* Footer */}
+        <Footer />
+
+        {/* Scroll to Top Button */}
+        <ScrollToTop />
+      </Box>
+    </ErrorBoundary>
   );
 }
