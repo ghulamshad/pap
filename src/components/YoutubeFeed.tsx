@@ -125,7 +125,7 @@ const YoutubeFeed: React.FC = () => {
 
       <Grid container spacing={4}>
         {videos.map((video) => (
-          <Grid item xs={12} sm={6} md={4} key={video.id.videoId}>
+          <Grid sx={{ xs:12, sm:6, md:4}} key={video.id.videoId}>
             <Card elevation={3}>
               <Box sx={{ position: "relative", paddingTop: "56.25%" }}>
                 <iframe
