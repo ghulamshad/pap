@@ -2,11 +2,12 @@ import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 
 export interface VideoItem {
   id: string;
+  videoId: string;
   title: string;
   description: string;
-  thumbnailUrl: string;
   publishedAt: string;
-  videoId: string;
+  thumbnailUrl: string;
+  channelTitle: string;
 }
 
 export interface VideoFilters {
@@ -21,16 +22,17 @@ export interface PaginationState {
 }
 
 export interface VideoState {
-  videos: VideoItem[];
+  items: VideoItem[];
   allVideos: VideoItem[];
   filters: VideoFilters;
   pagination: PaginationState;
   loading: boolean;
   error: string | null;
+  nextPageToken: string | null;
 }
 
 const initialState: VideoState = {
-  videos: [],
+  items: [],
   allVideos: [],
   filters: {},
   pagination: {
@@ -38,21 +40,22 @@ const initialState: VideoState = {
     itemsPerPage: 12
   },
   loading: false,
-  error: null
+  error: null,
+  nextPageToken: null
 };
 
 const videoSlice = createSlice({
   name: 'videos',
   initialState,
   reducers: {
-    fetchVideosStart: (state, action: PayloadAction<{ pageToken?: string }>) => {
+    fetchVideosStart: (state, action: PayloadAction<{ pageToken?: string; maxResults?: number }>) => {
       state.loading = true;
       state.error = null;
     },
-    fetchVideosSuccess: (state, action: PayloadAction<{ videos: VideoItem[]; allVideos: VideoItem[] }>) => {
+    fetchVideosSuccess: (state, action: PayloadAction<{ items: VideoItem[]; nextPageToken: string | null }>) => {
       state.loading = false;
-      state.videos = action.payload.videos;
-      state.allVideos = action.payload.allVideos;
+      state.items = [...state.items, ...action.payload.items];
+      state.nextPageToken = action.payload.nextPageToken;
     },
     fetchVideosFailure: (state, action: PayloadAction<string>) => {
       state.loading = false;
@@ -68,6 +71,11 @@ const videoSlice = createSlice({
     clearFilters: (state) => {
       state.filters = {};
       state.pagination.currentPage = 1;
+    },
+    clearVideos: (state) => {
+      state.items = [];
+      state.nextPageToken = null;
+      state.error = null;
     }
   }
 });
@@ -78,7 +86,8 @@ export const {
   fetchVideosFailure,
   setFilters,
   setPage,
-  clearFilters
+  clearFilters,
+  clearVideos
 } = videoSlice.actions;
 
 export default videoSlice.reducer; 

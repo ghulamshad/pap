@@ -145,6 +145,22 @@ exports.Prisma.PermissionScalarFieldEnum = {
   updatedAt: 'updatedAt'
 };
 
+exports.Prisma.VideoScalarFieldEnum = {
+  id: 'id',
+  videoId: 'videoId',
+  title: 'title',
+  description: 'description',
+  publishedAt: 'publishedAt',
+  thumbnailUrl: 'thumbnailUrl',
+  channelTitle: 'channelTitle',
+  channelId: 'channelId',
+  duration: 'duration',
+  views: 'views',
+  isActive: 'isActive',
+  createdAt: 'createdAt',
+  updatedAt: 'updatedAt'
+};
+
 exports.Prisma.SortOrder = {
   asc: 'asc',
   desc: 'desc'
@@ -175,6 +191,17 @@ exports.Prisma.PermissionOrderByRelevanceFieldEnum = {
   resource: 'resource',
   action: 'action'
 };
+
+exports.Prisma.VideoOrderByRelevanceFieldEnum = {
+  id: 'id',
+  videoId: 'videoId',
+  title: 'title',
+  description: 'description',
+  thumbnailUrl: 'thumbnailUrl',
+  channelTitle: 'channelTitle',
+  channelId: 'channelId',
+  duration: 'duration'
+};
 exports.UserRole = exports.$Enums.UserRole = {
   USER: 'USER',
   ADMIN: 'ADMIN',
@@ -185,7 +212,8 @@ exports.UserRole = exports.$Enums.UserRole = {
 exports.Prisma.ModelName = {
   User: 'User',
   Role: 'Role',
-  Permission: 'Permission'
+  Permission: 'Permission',
+  Video: 'Video'
 };
 
 /**

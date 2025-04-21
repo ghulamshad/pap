@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "i0K8OjvKa_S1dp5nCpKGsUFOHsY",
+  "nextPageToken": "CKABEAA",
+  "prevPageToken": "CG4QAQ",
+  "regionCode": "PK",
+  "pageInfo": {
+    "totalResults": 298,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jYL5RYxymzJYCiITxBgqobP6Cbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5t8pZpaD1ww"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-12T08:25:56Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Acting President Syed Yousaf Raza Gillani’s Speech at CPA Closing Ceremony 2025",
+        "description": "Acting President of Pakistan Syed Yousaf Raza Gillani emphasized that climate change is one of the greatest challenges of our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5t8pZpaD1ww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5t8pZpaD1ww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5t8pZpaD1ww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-12T08:25:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6oSG2VxIzrYxrH6KUwGgwBVrO-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GV2ivFmGy8A"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-11T13:40:53Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "CPA Punjab 2025 Plenary Session Day 1 Highlights",
+        "description": "The CPA Plenary Session focused on strengthening representation and fostering inclusivity in legislative mechanisms.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GV2ivFmGy8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GV2ivFmGy8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GV2ivFmGy8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-11T13:40:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kRQMQV4-mJXtHPAg5bz78PxzA0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "au7mA73nDsU"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-11T12:45:08Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Speaker Punjab Assembly Closing Remarks, Day 1 CPA Punjab 2025",
+        "description": "Speaker Punjab Assembly Malik Muhammad Ahmad Khan, in his closing remarks at the CPA Plenary Session, emphasized that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/au7mA73nDsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/au7mA73nDsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/au7mA73nDsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-11T12:45:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lzv3PzMD3zv7CWknlytgFF25GFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jatfHG2YxXk"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-11T11:59:59Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Speaker Punjab Assembly Opening Ceremony Address, CPA Punjab 2025",
+        "description": "Speaker Punjab Assembly Malik Muhammad Ahmad Khan warmly welcomed CPA guests and expressed his gratitude for their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jatfHG2YxXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jatfHG2YxXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jatfHG2YxXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-11T11:59:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "duu0KV5o5SeMKlwvw5SzZb-w5C0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I4_IIaafBtk"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-11T11:26:27Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Opening Ceremony, CPA Chairperson Dr. Christopher Kalila Speech",
+        "description": "This conference marks an important step in strengthening regional parliamentary ties and fostering collaboration.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I4_IIaafBtk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I4_IIaafBtk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I4_IIaafBtk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-11T11:26:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E2xjP5CBMbtQKv3zod5uy11E-3k",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLu8nlnmJP445m1CYwUa6DsO9wHvi8o0GD"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-11T11:05:10Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "CPA Punjab 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f34Bmuv3BwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f34Bmuv3BwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f34Bmuv3BwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-11T11:05:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "deE3lntHfvLAI3Mm5PHfkoSzeYE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f34Bmuv3BwY"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-11T10:40:09Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Opening Ceremony Remarks, Chief Guest N.A. Speaker Sardar Ayaz Sadiq",
+        "description": "Populism, polarization, and elite capture remain amongst the greatest contemporary challenges faced by our society.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f34Bmuv3BwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f34Bmuv3BwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f34Bmuv3BwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-11T10:40:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nluXnaTCjiFsuO0ejYPwF68NUig",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xjvWYJRRESY"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-10T05:23:08Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Closing Ceremony of 1st Joint CPA Asia and South-East Asia Regional Conference 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xjvWYJRRESY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xjvWYJRRESY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xjvWYJRRESY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-10T05:23:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ak4ke3ddV3dMKuOxxSRciLU8jFs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6oYH8sRY8ds"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-08T09:39:13Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Inaugural Ceremony of 1st Joint CPA Asia and South-East Asia Regional Conference 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6oYH8sRY8ds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6oYH8sRY8ds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6oYH8sRY8ds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-08T09:39:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sZr9gfsQ17mBcdtCDYiQMSSu9fs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i5QEy_3Xi_A"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-06T11:24:57Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Main Teaser CPA Punjab 2025",
+        "description": "The Provincial Assembly of the Punjab is honored to host the first Joint Asia & South-East Asia Regional Conference of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i5QEy_3Xi_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i5QEy_3Xi_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i5QEy_3Xi_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-06T11:24:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y2PBNao1bLPsL5mmM54NrHoRgdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TLh4ITacR2w"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T09:20:51Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting of PAC-III 29-01-2025",
+        "description": "Meeting of PAC-III 29-01-2025.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TLh4ITacR2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TLh4ITacR2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLh4ITacR2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T09:20:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EjoOTXbnWsobNesOXxBR38cf4F4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zhjZM1EP978"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-04T18:53:09Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Speaker Punjab Assembly, CPA 2025 Press Briefing",
+        "description": "Speaker Punjab Assembly, Malik Muhammad Ahmad Khan briefs the local press on the upcoming Commonwealth Parliamentary ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zhjZM1EP978/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zhjZM1EP978/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zhjZM1EP978/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-04T18:53:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zOM1TFl4q0jYVReQzPqk_VA_FXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TKNy0YjqvG4"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-04T17:27:54Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Speaker Punjab Assembly, Media Hall Inauguration Speech",
+        "description": "Speaker Punjab Assembly, Malik Muhammad Ahmad Khan, speaking on the inauguration of the media hall in the Punjab ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TKNy0YjqvG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TKNy0YjqvG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TKNy0YjqvG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-04T17:27:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z3KxTmTn1kFdj6l1O0H6WU_X6DE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "glxWBFLFBPA"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-03T06:30:11Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting of PAC-III 30-01-2025",
+        "description": "Meeting of PAC-III 30-01-2025.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/glxWBFLFBPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/glxWBFLFBPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/glxWBFLFBPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-03T06:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bjbp1qrjuzdDNb_uM1kTmMH6LBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fbPsC6yILAI"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-03T06:19:02Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting of PAC-III 28-01-2025",
+        "description": "Meeting of PAC-III 28-01-2025.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fbPsC6yILAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fbPsC6yILAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fbPsC6yILAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-03T06:19:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hUtnry6uq8CDa_mmRMj6j54CDxs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qMUcp3eCj2M"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-27T09:06:57Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Secretary General, Punjab Assembly Ch. Amer Habib CPA Message",
+        "description": "Secretary General of Punjab Assembly, Ch. Amer Habib delivers a special message to welcome delegates to first Joint Asia ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qMUcp3eCj2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qMUcp3eCj2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qMUcp3eCj2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-27T09:06:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GTPpLYkNb6MSHjjXHzUCjUTpajE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3brw9eXC4f8"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-24T08:22:15Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Interview of Local Government Caucus Punjab, Convener Ahmad Iqbal Chaudhary",
+        "description": "Convener of the Local Government Punjab Caucus, Ahmad Iqbal Chaudhary in an interview speaks on the importance of strong ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3brw9eXC4f8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3brw9eXC4f8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3brw9eXC4f8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-24T08:22:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eoCNvpiBWPCLIxjaIVWRzGwV4Zw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oQs59TeHFMU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-24T08:15:11Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Speaker Punjab Assembly Message, CPA 2025",
+        "description": "Speaker Punjab Assembly, Malik Muhammad Ahmad Khan welcomes delegates to the first Joint Asia and Southeast Asia ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oQs59TeHFMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oQs59TeHFMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oQs59TeHFMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-24T08:15:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XDvO4bgvN-tEZNUUPibUBfFu1TE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tx_8KeT3arc"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-23T08:50:44Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Interview of Ali Haider Gilani, Chairman Public Accounts Committee 2",
+        "description": "In an interview, Chairman of Public Accounts Committee 2, Ali Haider Gilani speaks on the mandate of the committee, his efforts to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tx_8KeT3arc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tx_8KeT3arc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tx_8KeT3arc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-23T08:50:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UHMFmcXfuZE-844Aw9mIpm7wBC8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TN3UAMd7gtI"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T21:33:50Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session 20 (22-01-2025) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, Pakistan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TN3UAMd7gtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TN3UAMd7gtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TN3UAMd7gtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-22T21:33:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GylqkAOk0M_BEzUWVJ_mBAaGQdg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RFgYin8z2Qo"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T16:40:46Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Women Parliamentary Caucus Convener Address, WPC Punjab Curtain Raiser",
+        "description": "The Punjab Assembly has achieved a groundbreaking milestone with the formation of the Women Parliamentary Caucus (WPC), ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RFgYin8z2Qo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RFgYin8z2Qo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RFgYin8z2Qo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-22T16:40:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vmHXtUjngEHQW5j906AVnfsxsZc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G5eXN_RdsYc"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T16:23:02Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Speaker Punjab Assembly Address, Women Parliamentary Caucus Punjab Curtain Raiser",
+        "description": "The Punjab Assembly has achieved a groundbreaking milestone with the formation of the Women Parliamentary Caucus (WPC), ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G5eXN_RdsYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G5eXN_RdsYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G5eXN_RdsYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-22T16:23:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OYJcu90i1-zxx8ZzcWw3ddPZzSU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tfOoe1Ng15M"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T05:29:21Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session 20 (21-01-2025) Proceedings of the Punjab Assembly",
+        "description": "صوبائی اسمبلی پنجاب منگل 21جنوری 2025کو 2:00بجے دوپہر منعقد ہونے والے اسمبلی کے اجلاس کی فہرست کارروائی تلاوت ، نعت ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tfOoe1Ng15M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tfOoe1Ng15M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tfOoe1Ng15M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-22T05:29:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "241q1MMFB0Cd2E3IIjIFMZPj6lE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "92C-ILhSIbA"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-21T04:29:08Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session 20 (20-01-2025) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, Pakistan PROVINCIAL ASSEMBLY OF THE PUNJAB ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/92C-ILhSIbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/92C-ILhSIbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/92C-ILhSIbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-21T04:29:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DnpTIqxPqr3rXoVOJS_drrCZpbA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mTZZW0jLNpE"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-20T11:01:41Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Interview of Begum Zakia Shahnawaz",
+        "description": "Begum Zakia Shahnawaz, senior member of the Punjab Assembly and former Minister, speaks on her rich experience in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mTZZW0jLNpE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mTZZW0jLNpE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mTZZW0jLNpE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-20T11:01:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5I7hsLnzqp1gx9ja1nLLcKeSIeg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kCGUkiysXYg"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-20T08:38:40Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Interview of Sardar Muhammad Awais Dreshak",
+        "description": "Sardar Muhammad Awais Dreshak, Convener Green, Disaster and Risk Reduction Caucus, talks on the mission of the Caucus ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kCGUkiysXYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kCGUkiysXYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kCGUkiysXYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-20T08:38:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qycwxfGzZtkG1hKThA5I2uaNcBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IQcWuhiNmaE"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-18T08:51:32Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Standing Committee on Services &amp; General Administration 16-01-2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IQcWuhiNmaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IQcWuhiNmaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IQcWuhiNmaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-18T08:51:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QlJ2iWlJk1HAHGUfJtqMNOf-AlA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dht-aqetFcM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-17T10:33:34Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session 20 (17-01-2025) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, Pakistan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dht-aqetFcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dht-aqetFcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dht-aqetFcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-17T10:33:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NrpzGGdTNPi_rh9keYtP3EWVpJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WnvEjJ_P_7k"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-17T08:57:25Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Interview of SDG Task Force Convener, Barriser Chaudhary Usama Fazal",
+        "description": "SDG Task Force Convener, Barrister Chaudhary Usama Fazal speaks on the mission of the task force and hopes for a sustainable ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WnvEjJ_P_7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WnvEjJ_P_7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WnvEjJ_P_7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-17T08:57:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N7h1cdX7SZWxmpURdxunQaZk53g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "skWcKQf1784"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-17T06:30:47Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session 20 (16-01-2025) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, Pakistan PROVINCIAL ASSEMBLY OF THE PUNJAB ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/skWcKQf1784/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/skWcKQf1784/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/skWcKQf1784/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-17T06:30:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "15TXoS4f_vBcyZE2fBmxbE5xrsw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LX8TaglX_lw"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-16T12:10:14Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Interview of Women Parliamentary Caucus Convener Ishrat Ashraf",
+        "description": "Women Parliamentary Caucus Convener, Ishrat Ashraf speaks on the mission of and hopes for the caucus. وومن پارلیمانی کاکس ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LX8TaglX_lw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LX8TaglX_lw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LX8TaglX_lw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-16T12:10:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NJ2a_ga7YgPh_G9oXVtrsEt7Srs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CZI1fsTaoB8"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-16T08:55:04Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting of PAC II (15-01-2025)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CZI1fsTaoB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CZI1fsTaoB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CZI1fsTaoB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-16T08:55:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5J4FagJ08Afr-Ka_lttB31oDJ_o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OjdbJ3joL9M"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-16T08:37:57Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Law (15-01-2025)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OjdbJ3joL9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OjdbJ3joL9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OjdbJ3joL9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-16T08:37:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WO_6kb0T4krMS5KVuYmKtEQVz0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rB3BN3rf2kg"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-15T14:22:21Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session 20 (15-01-2025) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, Pakistan PROVINCIAL ASSEMBLY OF THE PUNJAB ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rB3BN3rf2kg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rB3BN3rf2kg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rB3BN3rf2kg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-15T14:22:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iBTb3MobzzsaAmFD6T157pBVvpM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uY0LI-ZSALk"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-15T05:54:28Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting of PAC II (14-01-2025)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uY0LI-ZSALk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uY0LI-ZSALk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uY0LI-ZSALk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-15T05:54:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9yjQ4-eExx-W9hNOmFvow5IoAa8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YX3QLnL2eYE"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-15T05:45:27Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting of the Standing Committee on Forestry, Wildlife and Fisheries (14-01-2025)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YX3QLnL2eYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YX3QLnL2eYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YX3QLnL2eYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-15T05:45:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FJt3ClbH60EuN_b6btuFKuDI-ew",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZCPu25Nd8fM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-15T05:44:34Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session 20 (14-01-2025) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, Pakistan صوبائی اسمبلی پنجاب منگل 14جنوری ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZCPu25Nd8fM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZCPu25Nd8fM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZCPu25Nd8fM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-15T05:44:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FWBkZofAzPd3U5kESxNhtXWhrcc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GuFH_AQu7nM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-15T05:34:13Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Standing Committee on Education (14-01-2025)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GuFH_AQu7nM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GuFH_AQu7nM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GuFH_AQu7nM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-15T05:34:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fbPgPa-KYLzxeCNpilojkyOSGd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OodQYcHpRKA"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-14T11:51:45Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Discover the dynamic leadership driving legislative growth at the Punjab Assembly",
+        "description": "Discover the dynamic leadership driving legislative growth at the Punjab Assembly with it's parliamentary caucuses and their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OodQYcHpRKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OodQYcHpRKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OodQYcHpRKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-14T11:51:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vs8fIWsZhiQHlk32ldMM3hpvVbY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tN1fDagtQFs"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-14T05:09:04Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session 20 (13-01-2025) Proceedings of the Punjab Assembly",
+        "description": "LIST OF BUSINESS DATED 13-01-2025 00:00 Commencement 00:16 Tilawat and Naat 10:08 Taking oath of an elected member ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tN1fDagtQFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tN1fDagtQFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tN1fDagtQFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-14T05:09:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E0yCXWtBTjsENrK_HfbtyxF9NKQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uNkiIFPXNcM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-13T08:53:23Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Standing Committee on Local Government (09-01-2025)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uNkiIFPXNcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uNkiIFPXNcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uNkiIFPXNcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-13T08:53:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zW2iKcIGCKbcHoHpZ831CvT53DU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ej_SuiRyk1Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-10T19:31:39Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session 20 (10-01-2025) Proceedings of the Punjab Assembly",
+        "description": "LIST OF BUSINESS DATED 10-01-2025 00:00 Commencement 00:18 Tilawat and Naat 16:09 Questions Relating to Irrigation ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ej_SuiRyk1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ej_SuiRyk1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ej_SuiRyk1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-10T19:31:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F-kpk-KXbvMK4kpiS6FFCIfLxBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F4oDB7Ggv-M"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-10T12:34:58Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Task Force on Sustainable Development Goals (SDGs) 10-01-2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F4oDB7Ggv-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F4oDB7Ggv-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F4oDB7Ggv-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-10T12:34:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IjqkYGdoj_ckxoIrS3oR3MlpzS0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2wt1kSCCgQ4"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-09T06:59:55Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting of PAC I 08-01-2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2wt1kSCCgQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2wt1kSCCgQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2wt1kSCCgQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-09T06:59:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vZoYBOasa1Difj8ZHbF1vH8QsDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WaXtJ9OgP84"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-09T06:57:04Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Standing Committee on Services &amp; General Administration 08-01-2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WaXtJ9OgP84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WaXtJ9OgP84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WaXtJ9OgP84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-09T06:57:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FjDsfoT6nLde7cML-fX6rlXQhBM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GWQ7CEgb8No"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-08T13:23:36Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 17 (13-09-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GWQ7CEgb8No/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GWQ7CEgb8No/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GWQ7CEgb8No/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-08T13:23:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bTLTOsRRBFY-Zqix7v94g42wKe4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ul1Gkm--RSI"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-07T11:41:29Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 17 (09-09-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ul1Gkm--RSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ul1Gkm--RSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ul1Gkm--RSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-07T11:41:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nxJKoCsCBWPw0B7_ikuofmJCCkY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rs-FA-zDulE"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-07T11:27:49Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 17 (10-09-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rs-FA-zDulE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rs-FA-zDulE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rs-FA-zDulE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-07T11:27:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AEyNs7XwVEuSEQ8Kc2qjGTk8WQE",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLu8nlnmJP445SrLXM15PByqqGkdsPb8Eg"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-06T05:30:46Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term [2002-07] Session 17 (6-09-2004 to 27-09-2004]",
+        "description": "Playlist contains video of Term [2002-07] Session 17 (6-09-2004 to 27-09-2004]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A92POrjMY64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A92POrjMY64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A92POrjMY64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-06T05:30:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "beNjL03_HyiCjC0ZCZ79wx0KFGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NQYPilLisSg"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-03T10:33:36Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting privileges Committee  (03-01-2025)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NQYPilLisSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NQYPilLisSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NQYPilLisSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-03T10:33:36Z"
+      }
+    }
+  ]
+}

@@ -101,14 +101,14 @@ const Hero: React.FC = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const heroImages = [
-    '/hero/a1.jpeg',
-    '/hero/a2.jpeg',
-    '/hero/a3.jpeg',
-    '/hero/a4.jpeg',
-    '/hero/a5.jpeg',
-    '/hero/a6.jpeg',
-    '/hero/a7.jpeg',
-    '/hero/a8.jpeg',
+    '/Hero/a1.jpeg',
+    '/Hero/a2.jpeg',
+    '/Hero/a3.jpeg',
+    '/Hero/a4.jpeg',
+    '/Hero/a5.jpeg',
+    '/Hero/a6.jpeg',
+    '/Hero/a7.jpeg',
+    '/Hero/a8.jpeg',
   ];
 
   useEffect(() => {

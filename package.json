@@ -2,6 +2,7 @@
   "name": "pap",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -11,7 +12,8 @@
     "prisma:generate": "prisma generate",
     "prisma:migrate": "prisma migrate dev",
     "prisma:studio": "prisma studio",
-    "rbac:init": "ts-node src/scripts/init-rbac.ts"
+    "rbac:init": "ts-node src/scripts/init-rbac.ts",
+    "import-videos": "ts-node --esm src/scripts/import-videos.ts"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -24,6 +26,7 @@
     "@reduxjs/toolkit": "^2.7.0",
     "axios": "^1.8.4",
     "bcryptjs": "^2.4.3",
+    "fs": "^0.0.1-security",
     "jsonwebtoken": "^9.0.2",
     "next": "15.3.1",
     "react": "^19.0.0",

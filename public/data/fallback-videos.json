@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": "demo-video-1",
+      "title": "Getting Started with Next.js",
+      "description": "Learn how to build modern web applications with Next.js",
+      "publishedAt": "2024-03-20T10:00:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/demo1/maxresdefault.jpg",
+      "channelTitle": "Tech Tutorials",
+      "channelId": "UC-demo1",
+      "duration": "15:30",
+      "views": 12345
+    },
+    {
+      "id": "demo-video-2",
+      "title": "Advanced React Patterns",
+      "description": "Deep dive into advanced React patterns and best practices",
+      "publishedAt": "2024-03-19T15:30:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/demo2/maxresdefault.jpg",
+      "channelTitle": "React Masters",
+      "channelId": "UC-demo2",
+      "duration": "20:15",
+      "views": 8765
+    },
+    {
+      "id": "demo-video-3",
+      "title": "TypeScript Tips and Tricks",
+      "description": "Essential TypeScript tips for better type safety",
+      "publishedAt": "2024-03-18T09:15:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/demo3/maxresdefault.jpg",
+      "channelTitle": "TypeScript Pro",
+      "channelId": "UC-demo3",
+      "duration": "12:45",
+      "views": 5432
+    }
+  ]
+} 

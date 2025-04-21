@@ -467,9 +467,9 @@ const navigationItems = [
     title: 'Videos',
     items: [
       { text: 'All Videos', href: '/videos' },
-      { text: 'Featured Videos', href: '/videos?featured=true' },
-      { text: 'Latest Videos', href: '/videos?sort=latest' },
-      { text: 'Most Viewed', href: '/videos?sort=most-viewed' },
+      // { text: 'Featured Videos', href: '/videos?featured=true' },
+      // { text: 'Latest Videos', href: '/videos?sort=latest' },
+      // { text: 'Most Viewed', href: '/videos?sort=most-viewed' },
     ],
   },
   {

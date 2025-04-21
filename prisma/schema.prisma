@@ -57,3 +57,23 @@ enum UserRole {
   MODERATOR
   EDITOR
 }
+
+model Video {
+  id            String   @id @default(cuid())
+  videoId       String   @unique
+  title         String
+  description   String   @db.Text
+  publishedAt   DateTime
+  thumbnailUrl  String
+  channelTitle  String
+  channelId     String
+  duration      String? 
+  views         Int?     
+  isActive      Boolean  @default(true)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@index([publishedAt])
+  @@index([channelId])
+  @@index([isActive])
+}

@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "MR3hCKPL4coLuV1AZWagflP3Js8",
+  "nextPageToken": "CNIBEAA",
+  "prevPageToken": "CKABEAE",
+  "regionCode": "PK",
+  "pageInfo": {
+    "totalResults": 298,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Em8ejVDzBqkyVQHLIj0yPKnLRfU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rHmvAhvfyto"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-03T07:21:27Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 17 (08-09-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rHmvAhvfyto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rHmvAhvfyto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rHmvAhvfyto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-03T07:21:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x32gTXYCrKajeTFK-LG_f9Ek6Z4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GTo2yKqVBc0"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-03T07:21:43Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 17 (06-09-2004) Proceedings of the Punjab Assembly",
+        "description": "PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF BUSINESS FOR THE MEETING OF THE ASSEMBLY TO BE HELD ON ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GTo2yKqVBc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GTo2yKqVBc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GTo2yKqVBc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-03T07:21:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bYBCQ-PKJeh17tjeKn2_0mLxltw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "idYLBtgmlzg"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-02T09:51:22Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Standing Committee on Labour and Human Resources (01-01-2025)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/idYLBtgmlzg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/idYLBtgmlzg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/idYLBtgmlzg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-02T09:51:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5zVeWYy_PTWwFjbCbpjQOIBj-lg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8FEIUAUS7so"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-02T09:42:37Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting privileges Committee  (02-01-2025)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8FEIUAUS7so/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8FEIUAUS7so/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8FEIUAUS7so/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-02T09:42:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DFRPX7flFr4MDfdNKhNTOTxcId8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JE0ZM2JBLtk"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-01T09:47:29Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting of PAC-III 30-12-2024",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JE0ZM2JBLtk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JE0ZM2JBLtk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JE0ZM2JBLtk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-01T09:47:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SZC5JcwpcKMHfx32ogsGETDWbfI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_79ZHXGf6eY"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-01T09:46:06Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting of PAC-III (31-12-2024)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_79ZHXGf6eY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_79ZHXGf6eY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_79ZHXGf6eY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-01T09:46:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "alP9Q1lA3DGtEAfMfLcO8CvnTBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5VOPY9I9tYo"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-01T09:37:22Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Standing Committee PND (Planning and development) 01-01-2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5VOPY9I9tYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5VOPY9I9tYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5VOPY9I9tYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-01T09:37:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uWlN5PQMIZrOFd9iyOZWBQKuVd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "On1reHUa24M"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-31T07:16:29Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (29-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/On1reHUa24M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/On1reHUa24M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/On1reHUa24M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-31T07:16:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RxV_Cy1U4QZRTszlgDYJ5EzKBeg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "__YptTnD5hE"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-31T07:13:38Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (30-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/__YptTnD5hE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/__YptTnD5hE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/__YptTnD5hE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-31T07:13:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tf2qpIzd3GvZjQVH2lj_y5bg1LA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PGw6a8GD0bc"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-30T04:24:23Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting PAC 3 27-12-2024",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PGw6a8GD0bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PGw6a8GD0bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PGw6a8GD0bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-30T04:24:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NVwZ5xji0mEnGbr8SrVZUHUIxZs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "05PpTRA-i9s"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-27T21:06:11Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Suthra Punjab 27-12-2024",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/05PpTRA-i9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/05PpTRA-i9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/05PpTRA-i9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-27T21:06:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i9AUSWE1-CJOh1E0xl90OMKgWzw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OFb-wiJ67DU"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-27T07:32:45Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Punjab Assembly Session on Spiritual Insights and Public Welfare  (Professor Ahmed Rafique Akhtar )",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OFb-wiJ67DU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OFb-wiJ67DU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OFb-wiJ67DU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-27T07:32:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Up8esaCzoTfMxI4SJ5jZjVIpK0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jcrgd8zuJHU"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-27T06:31:24Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting PAC 3 26-12-2024",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jcrgd8zuJHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jcrgd8zuJHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jcrgd8zuJHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-27T06:31:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KPMqgJMQDID9Ax8Fk2M87JefJqM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mePyF05q754"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-24T09:05:45Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (28-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mePyF05q754/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mePyF05q754/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mePyF05q754/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-24T09:05:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vzWNolY2ayCA9Y01MXXllsZOLjw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G2YynzdU63k"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-24T07:28:52Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Social Welfare &amp; Bait-ul-Maal (23-12-2024)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G2YynzdU63k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G2YynzdU63k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G2YynzdU63k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-24T07:28:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VFIhqtMoLWceW6PR_KS0L9_0F3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d0shvNqLIQA"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-23T10:19:31Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (25-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, ROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d0shvNqLIQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d0shvNqLIQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d0shvNqLIQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-23T10:19:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tDb1Rc7oiU035PpZGIkEuxQxXuI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_Z6EniT2p8k"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-23T10:13:08Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (24-06-2004) Proceedings of the Punjab Assembly",
+        "description": "PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF BUSINESS FOR THE MEETINGS OF THE ASSEMBLY TO BE HELD ON ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Z6EniT2p8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Z6EniT2p8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Z6EniT2p8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-23T10:13:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eETQZg1vyZgMoMphSXdUxG5n21k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R5t13AmDqXc"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-20T12:36:19Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Standing Committee on Price Control and Commodities Management ( Food) (20-12-2024)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R5t13AmDqXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R5t13AmDqXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R5t13AmDqXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-20T12:36:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FoRAwbYSj-Ssjbvs1XcIHMY9sto",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NoFVrMycdPE"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-20T09:22:33Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (22-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NoFVrMycdPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NoFVrMycdPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NoFVrMycdPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-20T09:22:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wwQLXn1zInWWF8FQLyEWuUTtYR8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KhGr0pGRhFE"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-20T08:04:13Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (23-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KhGr0pGRhFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KhGr0pGRhFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KhGr0pGRhFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-20T08:04:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x7gLVweqPMZ808LpNVwRT1TtKJg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sING9cHpGG8"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-19T07:52:28Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (21-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sING9cHpGG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sING9cHpGG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sING9cHpGG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-19T07:52:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CYL1q9vG6OuU0IT6JWsEIt-IpNo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UKYGtOTOdSs"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-19T07:49:09Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (20-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UKYGtOTOdSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UKYGtOTOdSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UKYGtOTOdSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-19T07:49:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MGwNxFhLrgXuGxYLV1xcrITcC9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AEiKPzKjfPU"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-19T07:39:53Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting PAC 2 (18-12--2024)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AEiKPzKjfPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AEiKPzKjfPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AEiKPzKjfPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-19T07:39:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9zA7Qvuhve4_28mRsFSLurHlcxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MVmcK-ES3A4"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-18T07:31:59Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Law Reforms and Delegated Legislation 17-12-2024",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MVmcK-ES3A4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MVmcK-ES3A4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MVmcK-ES3A4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-18T07:31:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7hGuR7lKKY8IMqHZwT6oDsPJk24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NXru1bUKoc8"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-18T06:50:42Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting PAC 2 (17-12--2024)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NXru1bUKoc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NXru1bUKoc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NXru1bUKoc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-18T06:50:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y4KkLhVEjlTIhARV4MoHLaerEkg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-oH1KZqmte4"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-17T07:36:52Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session 19 16-12-2024 Proceedings of the Punjab Assembly",
+        "description": "LIST OF BUSINESS DATED 16-12-2024 00:00 Commencement 00:29 Tilawat and Naat 2:32:27 Questions Relating to EXCISE, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-oH1KZqmte4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-oH1KZqmte4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-oH1KZqmte4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-17T07:36:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dYg6ZLaUfQHxfNYq4xiaVTLuULI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Jq7FtSyMKU"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-17T04:49:59Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Revenue (05-12-2024)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Jq7FtSyMKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Jq7FtSyMKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Jq7FtSyMKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-17T04:49:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ghMROYDE6lclhzOzmsD2yLadT10",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ag_0vFlhZ4Y"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-16T23:57:30Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Session19 16-12-2024 Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, Pakistan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ag_0vFlhZ4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ag_0vFlhZ4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ag_0vFlhZ4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-16T23:57:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CcrUCcfs3Ms2AEiHuZAjWz9Ghw0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_j0KWGs6uP4"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-16T10:43:13Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting PAC 2 (16-12--2024)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_j0KWGs6uP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_j0KWGs6uP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_j0KWGs6uP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-16T10:43:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZN0qpthNxjYVNp0XTMgQ2H3veJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J_3_u-GfKSU"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-13T13:32:16Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting PAC 2 (13-12-2024)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J_3_u-GfKSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J_3_u-GfKSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J_3_u-GfKSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-13T13:32:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FLf6sklB95i21IJ3TAmJGSgj_Yg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Myf39inC1lQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-13T13:28:13Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting on Sports (13-12-2024)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Myf39inC1lQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Myf39inC1lQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Myf39inC1lQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-13T13:28:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t4NN7F8coZXkPjYrqUfgGvJ537s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xkZqN0jykZU"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-13T10:15:54Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting Standing Committee Law 13-12-2024",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xkZqN0jykZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xkZqN0jykZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xkZqN0jykZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-13T10:15:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A4hwtPZwZKcKZysa5r-rNxhK3lc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CF7GT44kP-0"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-13T07:00:39Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (16-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CF7GT44kP-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CF7GT44kP-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CF7GT44kP-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-13T07:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f85BeEW_bxjbEHKfQqbCZZrQdcA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dva6dVU6s-E"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-13T06:53:50Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 16 (17-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, PROVINCIAL ASSEMBLY OF THE PUNJAB LIST OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dva6dVU6s-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dva6dVU6s-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dva6dVU6s-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-13T06:53:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3weEQX6RFfvr_reEoNPVyNa-c9k",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLu8nlnmJP444XSqTdKY4XBGzR_S5NzBqC"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-13T06:54:29Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term [2002-07] Session 16 (16-06-2004 to 30-06-2004]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/On1reHUa24M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/On1reHUa24M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/On1reHUa24M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-13T06:54:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oprDik4ynOyMOZMkazwd28Yl7BU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k_RwCJT72R8"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-12T17:43:19Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting 12-12-2024 Mines and Minerals",
+        "description": "Audio/Video Proceedings of the Meetings of the Punjab Assembly, Lahore, Pakistan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k_RwCJT72R8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k_RwCJT72R8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k_RwCJT72R8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-12T17:43:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "km9guv2mjjfWQ_oSc0ZCPkAKbWM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RLtrNA10hQA"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-12T16:46:29Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting 12-12-2024 PAC",
+        "description": "Audio/Video Proceedings of the Meetings of the Punjab Assembly, Lahore, Pakistan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RLtrNA10hQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RLtrNA10hQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RLtrNA10hQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-12T16:46:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z8UKPeilhASguJyuWKKjHjJJ9-k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RKQMhpVqXkY"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-12T15:49:34Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting 11-12-2024 Agriculture",
+        "description": "Audio/Video Proceedings of the Meetings of the Punjab Assembly, Lahore, Pakistan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RKQMhpVqXkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RKQMhpVqXkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RKQMhpVqXkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-12T15:49:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gCcQfgDhq8yVvQ9QMHSU4c6tSRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u6Amz17zncA"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-12T10:27:57Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting 10-12-2024 Education",
+        "description": "Audio/Video Proceedings of the Meetings of the Punjab Assembly, Lahore, Pakistan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u6Amz17zncA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u6Amz17zncA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u6Amz17zncA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-12T10:27:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1be2G8rTpTi_LsiMn8BlXaKStvg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8CyF78LycI4"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-12T09:47:31Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Meeting 11-12-2024 Education",
+        "description": "Audio/Video Proceedings of the Meetings of the Punjab Assembly, Lahore, Pakistan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8CyF78LycI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8CyF78LycI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8CyF78LycI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-12T09:47:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xMpwmCk0DFXJAzECnsN-qtQk0fg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7b5az3xGeAY"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-09T08:09:29Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 15 (07-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, LIST OF BUSINESS DATED 07-06-2004 PROVINCIAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7b5az3xGeAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7b5az3xGeAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7b5az3xGeAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-09T08:09:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V4gMyDS5faI3yvpj-3sRB7jvFD4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2DtC6Wo1evM"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-09T07:14:14Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 15 (04-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, LIST OF BUSINESS DATED 04-06-2004 PROVINCIAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2DtC6Wo1evM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2DtC6Wo1evM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2DtC6Wo1evM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-09T07:14:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AT3T4m3O1DvwY9yAd8huMbXuAq4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EzB6qwLH_mc"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-06T07:09:44Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 15 (03-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, LIST OF BUSINESS DATED 03-06-2004 PROVINCIAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EzB6qwLH_mc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EzB6qwLH_mc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EzB6qwLH_mc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-06T07:09:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nr8ArPvIl2wwyDx0U4pL64eQ8i0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i53WMPf8pOs"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-06T06:58:45Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 15 (02-06-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, LIST OF BUSINESS DATED 02-06-2004 PROVINCIAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i53WMPf8pOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i53WMPf8pOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i53WMPf8pOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-06T06:58:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vrXbjUx9wH7_7L29z3rkKut-8WM",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLu8nlnmJP444NkzhIVc2NIm9eUo13EonT"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-05T09:39:08Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2024-29 Complete Audio Video of the Meetings related to this Term",
+        "description": "The playlist contains Audio Video of the Meetings related to Term 2024-29.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N0h9WZuERy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N0h9WZuERy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N0h9WZuERy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-05T09:39:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qQKog2O_PPxO_XrY_se1vsXD1-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ftU85feahEg"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-05T08:15:56Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 15 (31-05-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, LIST OF BUSINESS DATED 31-05-2004 PROVINCIAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ftU85feahEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ftU85feahEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ftU85feahEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-05T08:15:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L2oRbDsNOQZ9cuj-KUFFd6QrCac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lGdr-gBUe_U"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-05T07:39:33Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 15 (28-05-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, LIST OF BUSINESS DATED 28-05-2004 PROVINCIAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lGdr-gBUe_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lGdr-gBUe_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lGdr-gBUe_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-05T07:39:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4XDjcHBy52-cd57PD2aZ114sRhQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1LuqZFlTjHA"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-04T07:02:39Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 15 (27-05-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, LIST OF BUSINESS DATED 27-05-2004 PROVINCIAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1LuqZFlTjHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1LuqZFlTjHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1LuqZFlTjHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-04T07:02:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L11gCK4t_0kBGts-ipp1zYTnVns",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eB2jY-OMzcE"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-04T07:00:22Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 15 (26-05-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, LIST OF BUSINESS DATED 26-05-2004 PROVINCIAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eB2jY-OMzcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eB2jY-OMzcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eB2jY-OMzcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-04T07:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LhRFEB0z4tofi6UaaV7WrxlSXVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RZia-V3uE8k"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-03T09:27:50Z",
+        "channelId": "UCUfE_2MHtAl1VIvpxoYBROA",
+        "title": "Term 2002-07 Session 14 (25-02-2004) Proceedings of the Punjab Assembly",
+        "description": "Audio/Video Proceedings of the Sessions of the Punjab Assembly, Lahore, LIST OF BUSINESS DATED 25-02-2004 PROVINCIAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RZia-V3uE8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RZia-V3uE8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RZia-V3uE8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Provincial Assembly of the Punjab Lahore, Pakistan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-03T09:27:50Z"
+      }
+    }
+  ]
+}

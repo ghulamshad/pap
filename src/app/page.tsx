@@ -104,93 +104,7 @@ export default function Home() {
   const isHomePage = useMemo(() => pathname === '/', [pathname]);
 
   return (
-    // <Box sx={{ py: 4 }}>
-    //   <Container maxWidth="lg">
-    //     <Box sx={{ textAlign: 'center', mb: 6 }}>
-    //       <Typography variant="h3" component="h1" gutterBottom sx={{ fontWeight: 'bold', color: 'primary.main' }}>
-    //         Punjab Assembly Portal
-    //       </Typography>
-    //       <Typography variant="h6" color="text.secondary" sx={{ mb: 4 }}>
-    //         Official digital platform for the Punjab Assembly
-    //       </Typography>
-          
-    //       {!isAuthenticated ? (
-    //         <Box sx={{ mt: 4 }}>
-    //           <Button 
-    //             variant="contained" 
-    //             color="primary" 
-    //             size="large" 
-    //             onClick={() => router.push('/login')}
-    //             sx={{ mr: 2 }}
-    //           >
-    //             Login
-    //           </Button>
-    //           <Button 
-    //             variant="outlined" 
-    //             color="primary" 
-    //             size="large" 
-    //             onClick={() => router.push('/register')}
-    //           >
-    //             Register
-    //           </Button>
-    //         </Box>
-    //       ) : (
-    //         <Box sx={{ mt: 4 }}>
-    //           <Typography variant="h5" gutterBottom>
-    //             Welcome, {user?.email?.split('@')[0] || 'User'}
-    //           </Typography>
-    //           <Button 
-    //             variant="contained" 
-    //             color="primary" 
-    //             size="large" 
-    //             onClick={() => router.push('/dashboard')}
-    //           >
-    //             Go to Dashboard
-    //           </Button>
-    //         </Box>
-    //       )}
-    //     </Box>
-
-    //     <Box sx={{ display: 'flex', flexDirection: { xs: 'column', md: 'row' }, gap: 4 }}>
-    //       <Box sx={{ flex: 1 }}>
-    //         <Card>
-    //           <CardContent>
-    //             <Typography variant="h5" component="div">
-    //               Assembly Information
-    //             </Typography>
-    //             <Typography variant="body2" color="text.secondary">
-    //               Access comprehensive information about the Punjab Assembly, its history, and current proceedings.
-    //             </Typography>
-    //           </CardContent>
-    //         </Card>
-    //       </Box>
-    //       <Box sx={{ flex: 1 }}>
-    //         <Card>
-    //           <CardContent>
-    //             <Typography variant="h5" component="div">
-    //               Member Directory
-    //             </Typography>
-    //             <Typography variant="body2" color="text.secondary">
-    //               Browse the directory of assembly members, their constituencies, and contact information.
-    //             </Typography>
-    //           </CardContent>
-    //         </Card>
-    //       </Box>
-    //       <Box sx={{ flex: 1 }}>
-    //         <Card>
-    //           <CardContent>
-    //             <Typography variant="h5" component="div">
-    //               Legislative Documents
-    //             </Typography>
-    //             <Typography variant="body2" color="text.secondary">
-    //               Access bills, resolutions, and other legislative documents from the Punjab Assembly.
-    //             </Typography>
-    //           </CardContent>
-    //         </Card>
-    //       </Box>
-    //     </Box>
-    //   </Container>
-    // </Box>
+    
     <ErrorBoundary>
       <Box sx={{ 
         display: 'flex', 
@@ -207,9 +121,7 @@ export default function Home() {
 
         {/* Main Content */}
         <ContentWrapper>
-          {/* Pakistan Flag Background */}
-          {/* <PakistanFlag /> */}
-
+          
           {/* Hero Section for Home Page */}
           {isHomePage && <Hero />}
 
