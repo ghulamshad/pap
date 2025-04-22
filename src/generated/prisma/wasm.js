@@ -166,41 +166,14 @@ exports.Prisma.SortOrder = {
   desc: 'desc'
 };
 
+exports.Prisma.QueryMode = {
+  default: 'default',
+  insensitive: 'insensitive'
+};
+
 exports.Prisma.NullsOrder = {
   first: 'first',
   last: 'last'
-};
-
-exports.Prisma.UserOrderByRelevanceFieldEnum = {
-  id: 'id',
-  email: 'email',
-  name: 'name',
-  password: 'password'
-};
-
-exports.Prisma.RoleOrderByRelevanceFieldEnum = {
-  id: 'id',
-  name: 'name',
-  description: 'description'
-};
-
-exports.Prisma.PermissionOrderByRelevanceFieldEnum = {
-  id: 'id',
-  name: 'name',
-  description: 'description',
-  resource: 'resource',
-  action: 'action'
-};
-
-exports.Prisma.VideoOrderByRelevanceFieldEnum = {
-  id: 'id',
-  videoId: 'videoId',
-  title: 'title',
-  description: 'description',
-  thumbnailUrl: 'thumbnailUrl',
-  channelTitle: 'channelTitle',
-  channelId: 'channelId',
-  duration: 'duration'
 };
 exports.UserRole = exports.$Enums.UserRole = {
   USER: 'USER',

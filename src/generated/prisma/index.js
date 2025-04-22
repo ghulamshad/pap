@@ -139,41 +139,14 @@ exports.Prisma.SortOrder = {
   desc: 'desc'
 };
 
+exports.Prisma.QueryMode = {
+  default: 'default',
+  insensitive: 'insensitive'
+};
+
 exports.Prisma.NullsOrder = {
   first: 'first',
   last: 'last'
-};
-
-exports.Prisma.UserOrderByRelevanceFieldEnum = {
-  id: 'id',
-  email: 'email',
-  name: 'name',
-  password: 'password'
-};
-
-exports.Prisma.RoleOrderByRelevanceFieldEnum = {
-  id: 'id',
-  name: 'name',
-  description: 'description'
-};
-
-exports.Prisma.PermissionOrderByRelevanceFieldEnum = {
-  id: 'id',
-  name: 'name',
-  description: 'description',
-  resource: 'resource',
-  action: 'action'
-};
-
-exports.Prisma.VideoOrderByRelevanceFieldEnum = {
-  id: 'id',
-  videoId: 'videoId',
-  title: 'title',
-  description: 'description',
-  thumbnailUrl: 'thumbnailUrl',
-  channelTitle: 'channelTitle',
-  channelId: 'channelId',
-  duration: 'duration'
 };
 exports.UserRole = exports.$Enums.UserRole = {
   USER: 'USER',
@@ -228,17 +201,17 @@ const config = {
   "datasourceNames": [
     "db"
   ],
-  "activeProvider": "mysql",
+  "activeProvider": "postgresql",
   "inlineDatasources": {
     "db": {
       "url": {
         "fromEnvVar": "DATABASE_URL",
-        "value": "mysql://root:@localhost:3306/pap1"
+        "value": "postgresql://postgres:@Alihamza810@db.zehfekiehziroqicbnpw.supabase.co:5432/postgres"
       }
     }
   },
-  "inlineSchema": "// This is your Prisma schema file,\n// learn more about it in the docs: https://pris.ly/d/prisma-schema\n\n// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?\n// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init\n\ngenerator client {\n  provider        = \"prisma-client-js\"\n  previewFeatures = [\"referentialIntegrity\"]\n  output          = \"../src/generated/prisma\"\n}\n\ndatasource db {\n  provider = \"mysql\"\n  url      = env(\"DATABASE_URL\")\n}\n\nmodel User {\n  id          String       @id @default(cuid())\n  email       String       @unique\n  name        String?\n  password    String\n  role        UserRole     @default(USER)\n  roles       Role[]       @relation(\"UserRoles\")\n  permissions Permission[] @relation(\"UserPermissions\")\n  createdAt   DateTime     @default(now())\n  updatedAt   DateTime     @updatedAt\n}\n\nmodel Role {\n  id          String       @id @default(cuid())\n  name        String       @unique\n  description String?\n  permissions Permission[] @relation(\"RolePermissions\")\n  users       User[]       @relation(\"UserRoles\")\n  createdAt   DateTime     @default(now())\n  updatedAt   DateTime     @updatedAt\n}\n\nmodel Permission {\n  id          String   @id @default(cuid())\n  name        String   @unique\n  description String?\n  resource    String // e.g., \"users\", \"posts\", \"comments\"\n  action      String // e.g., \"create\", \"read\", \"update\", \"delete\"\n  roles       Role[]   @relation(\"RolePermissions\")\n  users       User[]   @relation(\"UserPermissions\")\n  createdAt   DateTime @default(now())\n  updatedAt   DateTime @updatedAt\n\n  @@unique([resource, action])\n}\n\nenum UserRole {\n  USER\n  ADMIN\n  MODERATOR\n  EDITOR\n}\n\nmodel Video {\n  id           String   @id @default(cuid())\n  videoId      String   @unique\n  title        String\n  description  String   @db.Text\n  publishedAt  DateTime\n  thumbnailUrl String\n  channelTitle String\n  channelId    String\n  duration     String? // Duration in ISO 8601 format (e.g., \"PT1H2M10S\")\n  views        Int? // View count\n  isActive     Boolean  @default(true)\n  createdAt    DateTime @default(now())\n  updatedAt    DateTime @updatedAt\n\n  @@index([publishedAt])\n  @@index([channelId])\n  @@index([isActive])\n}\n",
-  "inlineSchemaHash": "8c52b38134941e438b2612851125ea650cb81476c4c11ea2d355948c9065a312",
+  "inlineSchema": "// This is your Prisma schema file,\n// learn more about it in the docs: https://pris.ly/d/prisma-schema\n\n// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?\n// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init\n\ngenerator client {\n  provider        = \"prisma-client-js\"\n  previewFeatures = [\"referentialIntegrity\"]\n  output          = \"../src/generated/prisma\"\n}\n\ndatasource db {\n  provider = \"postgresql\"\n  url      = env(\"DATABASE_URL\")\n}\n\nmodel User {\n  id          String       @id @default(cuid())\n  email       String       @unique\n  name        String?\n  password    String\n  role        UserRole     @default(USER)\n  roles       Role[]       @relation(\"UserRoles\")\n  permissions Permission[] @relation(\"UserPermissions\")\n  createdAt   DateTime     @default(now())\n  updatedAt   DateTime     @updatedAt\n}\n\nmodel Role {\n  id          String       @id @default(cuid())\n  name        String       @unique\n  description String?\n  permissions Permission[] @relation(\"RolePermissions\")\n  users       User[]       @relation(\"UserRoles\")\n  createdAt   DateTime     @default(now())\n  updatedAt   DateTime     @updatedAt\n}\n\nmodel Permission {\n  id          String   @id @default(cuid())\n  name        String   @unique\n  description String?\n  resource    String // e.g., \"users\", \"posts\", \"comments\"\n  action      String // e.g., \"create\", \"read\", \"update\", \"delete\"\n  roles       Role[]   @relation(\"RolePermissions\")\n  users       User[]   @relation(\"UserPermissions\")\n  createdAt   DateTime @default(now())\n  updatedAt   DateTime @updatedAt\n\n  @@unique([resource, action])\n}\n\nenum UserRole {\n  USER\n  ADMIN\n  MODERATOR\n  EDITOR\n}\n\nmodel Video {\n  id           String   @id @default(cuid())\n  videoId      String   @unique\n  title        String\n  description  String   @db.Text\n  publishedAt  DateTime\n  thumbnailUrl String\n  channelTitle String\n  channelId    String\n  duration     String?\n  views        Int?\n  isActive     Boolean  @default(true)\n  createdAt    DateTime @default(now())\n  updatedAt    DateTime @updatedAt\n\n  @@index([publishedAt])\n  @@index([channelId])\n  @@index([isActive])\n}\n",
+  "inlineSchemaHash": "3ebdda065825aa7484d5f6880ae5823a3455081cc62b3d333bb1e96f1c70f7d2",
   "copyEngine": true
 }
 
